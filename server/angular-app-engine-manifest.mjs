@@ -1,6 +1,6 @@
 
 export default {
-  basePath: 'https://akshayramteke97.github.io/MyWebsite-Angular-App',
+  basePath: 'https://akshayramteke97.github.io/my-website',
   supportedLocales: {
   "en-US": ""
 },

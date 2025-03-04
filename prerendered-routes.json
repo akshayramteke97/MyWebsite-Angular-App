@@ -1,9 +1,9 @@
 {
   "routes": {
-    "/MyWebsite-Angular-App": {},
-    "/MyWebsite-Angular-App/about": {},
-    "/MyWebsite-Angular-App/blog": {},
-    "/MyWebsite-Angular-App/contact": {},
-    "/MyWebsite-Angular-App/portfolio": {}
+    "/my-website": {},
+    "/my-website/about": {},
+    "/my-website/blog": {},
+    "/my-website/contact": {},
+    "/my-website/portfolio": {}
   }
 }
